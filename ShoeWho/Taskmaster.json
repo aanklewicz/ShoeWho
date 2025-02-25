@@ -274,7 +274,7 @@
   },
   {
     "Filename": "SIAN",
-    "DisplayName": "SIAN G.",
+    "DisplayName": "Sian G.",
     "Country": "UK",
     "Season": "Series 8",
     "Code": "SG"
@@ -628,5 +628,26 @@
     "Country": "UK",
     "Season": "Series 18",
     "Code": "RJ"
+  },
+  {
+    "Filename": "FRED",
+    "DisplayName": "Fredrik A.",
+    "Country": "UK",
+    "Season": "Special Guest",
+    "Code": "FA"
+  },
+  {
+    "Filename": "GREG",
+    "DisplayName": "Greg D.",
+    "Country": "UK",
+    "Season": "Taskmaster",
+    "Code": "GD"
+  },
+  {
+    "Filename": "ALEX",
+    "DisplayName": "Alex H.",
+    "Country": "UK",
+    "Season": "TM's Ass.",
+    "Code": "AH"
   }
 ]
