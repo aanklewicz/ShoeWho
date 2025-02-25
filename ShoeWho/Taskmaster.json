@@ -687,7 +687,7 @@
   },
   {
     "Filename": "LEIGH_NZ",
-    "DisplayName": "LEIGH H.",
+    "DisplayName": "Leigh H.",
     "Country": "NZ",
     "Season": "Season 1",
     "Code": "LH"
@@ -733,5 +733,110 @@
     "Country": "NZ",
     "Season": "Season 2",
     "Code": "UC"
+  },
+  {
+    "Filename": "CHRIS_NZ",
+    "DisplayName": "Chris P.",
+    "Country": "NZ",
+    "Season": "Season 3",
+    "Code": "CP"
+  },
+  {
+    "Filename": "JOSH_NZ",
+    "DisplayName": "Josh T.",
+    "Country": "NZ",
+    "Season": "Season 3",
+    "Code": "JT"
+  },
+  {
+    "Filename": "JUSTINE_NZ",
+    "DisplayName": "Justine S.",
+    "Country": "NZ",
+    "Season": "Season 3",
+    "Code": "JS"
+  },
+  {
+    "Filename": "KURA_NZ",
+    "DisplayName": "Kura F.",
+    "Country": "NZ",
+    "Season": "Season 3",
+    "Code": "KF"
+  },
+  {
+    "Filename": "PAUL_E_NZ",
+    "DisplayName": "Paul E.",
+    "Country": "NZ",
+    "Season": "Season 3",
+    "Code": "PE"
+  },
+  {
+    "Filename": "BUBBAH_NZ",
+    "DisplayName": "Bubbah",
+    "Country": "NZ",
+    "Season": "Season 4",
+    "Code": "B"
+  },
+  {
+    "Filename": "DAI_NZ",
+    "DisplayName": "Dai H.",
+    "Country": "NZ",
+    "Season": "Season 4",
+    "Code": "DH"
+  },
+  {
+    "Filename": "KAREN_NZ",
+    "DisplayName": "Karen O.",
+    "Country": "NZ",
+    "Season": "Season 4",
+    "Code": "KO"
+  },
+  {
+    "Filename": "MELANIE_NZ",
+    "DisplayName": "Melanie B.",
+    "Country": "NZ",
+    "Season": "Season 4",
+    "Code": "MB"
+  },
+  {
+    "Filename": "RAY_NZ",
+    "DisplayName": "Ray O.",
+    "Country": "NZ",
+    "Season": "Season 4",
+    "Code": "RO"
+  },
+  {
+    "Filename": "ABBY_NZ",
+    "DisplayName": "Abby H.",
+    "Country": "NZ",
+    "Season": "Season 5",
+    "Code": "AH"
+  },
+  {
+    "Filename": "BEN_NZ",
+    "DisplayName": "Ben H.",
+    "Country": "NZ",
+    "Season": "Season 5",
+    "Code": "BH"
+  },
+  {
+    "Filename": "HAYLEY_NZ",
+    "DisplayName": "Hayley S.",
+    "Country": "NZ",
+    "Season": "Season 5",
+    "Code": "HS"
+  },
+  {
+    "Filename": "TOFIGA_NZ",
+    "DisplayName": "Tofiga F.",
+    "Country": "NZ",
+    "Season": "Season 5",
+    "Code": "TF"
+  },
+  {
+    "Filename": "TOM_NZ",
+    "DisplayName": "Tom S.",
+    "Country": "NZ",
+    "Season": "Season 5",
+    "Code": "TS"
   }
 ]
