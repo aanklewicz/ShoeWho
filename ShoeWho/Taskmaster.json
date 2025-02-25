@@ -649,5 +649,89 @@
     "Country": "UK",
     "Season": "TM's Ass.",
     "Code": "AH"
+  },
+  {
+    "Filename": "PAUL_NZ",
+    "DisplayName": "Paul W.",
+    "Country": "NZ",
+    "Season": "TM's Ass.",
+    "Code": "PW"
+  },
+  {
+    "Filename": "JEREMY_NZ",
+    "DisplayName": "Jeremy W.",
+    "Country": "NZ",
+    "Season": "Taskmaster",
+    "Code": "JW"
+  },
+  {
+    "Filename": "ANGELLA_NZ",
+    "DisplayName": "Angella D.",
+    "Country": "NZ",
+    "Season": "Season 1",
+    "Code": "AD"
+  },
+  {
+    "Filename": "BRYNLEY_NZ",
+    "DisplayName": "Brynley S.",
+    "Country": "NZ",
+    "Season": "Season 1",
+    "Code": "BS"
+  },
+  {
+    "Filename": "GUY_W_NZ",
+    "DisplayName": "Guy W.",
+    "Country": "NZ",
+    "Season": "Season 1",
+    "Code": "GW"
+  },
+  {
+    "Filename": "LEIGH_NZ",
+    "DisplayName": "LEIGH H.",
+    "Country": "NZ",
+    "Season": "Season 1",
+    "Code": "LH"
+  },
+  {
+    "Filename": "MADELEINE_NZ",
+    "DisplayName": "Madeleine S.",
+    "Country": "NZ",
+    "Season": "Season 1",
+    "Code": "MS"
+  },
+  {
+    "Filename": "DAVE_NZ",
+    "DisplayName": "David C.",
+    "Country": "NZ",
+    "Season": "Season 2",
+    "Code": "DC"
+  },
+  {
+    "Filename": "GUY_M_NZ",
+    "DisplayName": "Guy M.",
+    "Country": "NZ",
+    "Season": "Season 2",
+    "Code": "GM"
+  },
+  {
+    "Filename": "LAURA_NZ",
+    "DisplayName": "Laura D.",
+    "Country": "NZ",
+    "Season": "Season 2",
+    "Code": "LD"
+  },
+  {
+    "Filename": "MATT_NZ",
+    "DisplayName": "Matt H.",
+    "Country": "NZ",
+    "Season": "Season 2",
+    "Code": "MH"
+  },
+  {
+    "Filename": "URZILA_NZ",
+    "DisplayName": "Urzila C.",
+    "Country": "NZ",
+    "Season": "Season 2",
+    "Code": "UC"
   }
 ]
